@@ -31,10 +31,12 @@ ergänzen die fehlenden Daten, um Ihr Gesamtsystem **WSWW + H** beschreiben zu k
 
 <br>
 
+
+## Werkzeugmaschine
+
 <!--
 style="width: 100%; "
 -->
-|**W**erkzeugmaschine| |
 |$ \quad $ Bezeichnung | Drehmaschine EMCOMAT E-300, zyklengesteuert |
 |$ \quad $ Spitzenweite  | 1.500 mm  |
 |$ \quad $ Umlauf-$\varnothing$ über Bett	|570 mm|
@@ -45,25 +47,67 @@ style="width: 100%; "
 |$ \quad $ Drehzahlregelung|stufenlos|
 |$ \quad $ Antriebsleistung bei 40/100 % ED| 25/17 kW |
 |$ \quad $ max. Nennmoment an der Hauptspindel|764/519 Nm|
-|**S**pannmittel | |
-|$ \quad $Art der Spannung|<input type="text" name="Art der Spannung" size="40" maxlength="60">|
-|$ \quad $verwendete Spannmittel| <input type="text" name="verwendete Spannmittel" size="40" maxlength="60"> |
-|$ \quad $Besonderheiten|<input type="text" name="Besonderheiten" size="40" maxlength="60"> |
-| | |
-|**W**erkstück | |
-|$ \quad $ Bezeichnung|<input type="text" name="Bezeichnung" size="40" maxlength="60"> |
-|$ \quad $ Abmaße ($ \varnothing$ x l)|<input type="text" name="Abmaße" size="40" maxlength="60"> |
-|$ \quad $ Werkstoff|<input type="text" name="Werkstoff" size="40" maxlength="60"> |
-|$ \quad $ Härte|<input type="text" name="Härte" size="40" maxlength="60"> |
-| | |
-|**W**erkzeug| |
-|$ \quad $ Halterbezeichnung|<input type="text" name="Halterbezeichnung" size="40" maxlength="60"> |
-|$ \quad $ Wendeschneidplatte|<input type="text" name="Wendeschneidplatte" size="40" maxlength="60"> |
-|$ \quad $ Schneidstoff| <input type="text" name="Schneidstoff" size="40" maxlength="60">|
-|$ \quad $ Eckenradius|<input type="text" name="Eckenradius" size="40" maxlength="60"> |
-|$ \quad $ Eckenwinkel|<input type="text" name="Eckenwinkel" size="40" maxlength="60"> |
-| | |
-|**H**ilfsstoffe | |
-|$ \quad $ Kühlschmierstoff|<input type="text" name="Kühlschmierstoff" size="40" maxlength="60"> |
 
-<button>Absenden</button>
+
+## Spannmittel
+
+Art der Spannung
+
+[[___ ___ ___]]
+
+verwendete Spannmittel
+
+[[___ ___ ___]]
+
+Besonderheiten
+
+[[___ ___ ___]]
+
+
+## Werkstück
+
+Bezeichnung
+
+[[___ ___ ___]]
+
+Abmaße ($\varnothing \space x \space l$)
+
+[[___ ___ ___]]
+
+Werkstoff
+
+[[___ ___ ___]]
+
+Härte
+
+[[___ ___ ___]]
+
+
+## Werkzeug
+
+Halterbezeichnung
+
+[[___ ___ ___]]
+
+Wendeschneidplatte
+
+[[___ ___ ___]]
+
+Schneidstoff
+
+[[___ ___ ___]]
+
+Eckenradius
+
+[[___ ___ ___]]
+
+Eckenwinkel
+
+[[___ ___ ___]]
+
+
+## Hilfsstoffe
+
+Kühlschmierstoff
+
+[[___ ___ ___]]
