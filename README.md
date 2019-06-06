@@ -38,6 +38,10 @@ style="font-size: 18px; "
 
 ## **W**erkzeugmaschine
 
+Hier finden Sie wichtige Informationen zur vorhandenen Maschinentechnik.
+
+<br>
+
 <!--
 style="width: 100%; "
 -->
@@ -55,6 +59,10 @@ style="width: 100%; "
 
 ## **S**pannmittel
 
+Bitte tragen Sie hier die geforderten Informationen zum Teilsystem **S**pannmittel ein.
+
+<br>
+
 Art der Spannung
 
 [[___ ___ ___]]
@@ -69,6 +77,10 @@ Besonderheiten
 
 
 ## **W**erkstück
+
+Bitte tragen Sie hier die geforderten Informationen zum Teilsystem **W**erkstück ein.
+
+<br>
 
 Bezeichnung
 
@@ -88,6 +100,10 @@ Härte
 
 
 ## **W**erkzeug
+
+Bitte tragen Sie hier die geforderten Informationen zum Teilsystem **W**erkzeug ein.
+
+<br>
 
 Halterbezeichnung
 
@@ -111,6 +127,10 @@ Eckenwinkel
 
 
 ## **H**ilfsstoffe
+
+Bitte tragen Sie hier die geforderten Informationen zum Teilsystem **H**ilfsstoffe ein.
+
+<br>
 
 Kühlschmierstoff
 
