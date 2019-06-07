@@ -12,11 +12,9 @@ narrator: DE FEMALE
 
 -->
 
-# **Gesamtsystem-WSWWH**
+# Versuchsvorbereitung: Gesamtsystem WSWW+H
 
-<h2>Versuchsvorbereitung</h2>
-
-Etwa zwei Personen einer Gruppe erhalten ein Drehwerkzeug (Daten siehe Anhang), mit dem die in den Kursen beschriebenen Versuche durchzuführen sind. Wesentliche Eingangsgrößen für den Zerspanprozess werden durch das Systemmodell **WSWW + H** beschrieben.
+Etwa zwei Personen einer Gruppe erhalten ein Drehwerkzeug, mit dem die in den Kursen beschriebenen Versuche durchzuführen sind. Wesentliche Eingangsgrößen für den Zerspanprozess werden durch das Systemmodell **WSWW + H** beschrieben.
 Bevor Sie mit den Versuchen starten, verschaffen Sie sich einen Überblick über die verwendete Technik und
 ergänzen die fehlenden Daten, um Ihr Gesamtsystem **WSWW + H** beschreiben zu können.
 
