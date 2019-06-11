@@ -12,11 +12,11 @@ narrator: DE FEMALE
 
 -->
 
-# **Gesamtsystem-WSWWH**
+# **Gesamtsystem WSWWH**
 
 <h2>Versuchsvorbereitung</h2>
 
-Jede Gruppe erhält ein Drehwerkzeug (Daten siehe Anhang), mit dem die in den Kursen beschriebenen Versuche durchzuführen sind. Bevor Sie mit den Versuchen starten, verschaffen Sie sich einen Überblick über die verwendete Technik und
+Jede Gruppe erhält ein Drehwerkzeug, mit dem die in den Kursen beschriebenen Versuche durchzuführen sind. Bevor Sie mit den Versuchen starten, verschaffen Sie sich einen Überblick über die verwendete Technik und
 ergänzen auf den folgenden Seiten die fehlenden Daten, um Ihr Gesamtsystem **WSWW + H** beschreiben zu können.
 
 <br>
