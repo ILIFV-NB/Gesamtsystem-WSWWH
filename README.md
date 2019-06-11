@@ -12,15 +12,21 @@ narrator: DE FEMALE
 
 -->
 
-# Versuchsvorbereitung: Gesamtsystem WSWW+H
+# **Gesamtsystem WSWWH**
 
-Etwa zwei Personen einer Gruppe erhalten ein Drehwerkzeug, mit dem die in den Kursen beschriebenen Versuche durchzuführen sind. Wesentliche Eingangsgrößen für den Zerspanprozess werden durch das Systemmodell **WSWW + H** beschrieben.
-Bevor Sie mit den Versuchen starten, verschaffen Sie sich einen Überblick über die verwendete Technik und
-ergänzen die fehlenden Daten, um Ihr Gesamtsystem **WSWW + H** beschreiben zu können.
+<h2>Versuchsvorbereitung</h2>
+
+Jede Gruppe erhält ein Drehwerkzeug, mit dem die in den Kursen beschriebenen Versuche durchzuführen sind. Bevor Sie mit den Versuchen starten, verschaffen Sie sich einen Überblick über die verwendete Technik und
+ergänzen auf den folgenden Seiten die fehlenden Daten, um Ihr Gesamtsystem **WSWW + H** beschreiben zu können.
+
+<br>
+Durch das Systemmodell **WSWW + H** werden wesentliche Eingangsgrößen für den Zerspanprozess beschrieben. Es setzt sich zusammen aus:
 
 <br>
 
-<h1>WSWW + H</h1>
+<!--
+style="font-size: 18px; "
+-->
 **W**erkzeugmaschine <br>
 **S**pannmittel<br>
 **W**erkstück<br>
@@ -29,10 +35,16 @@ ergänzen die fehlenden Daten, um Ihr Gesamtsystem **WSWW + H** beschreiben zu k
 
 <br>
 
+
+## **W**erkzeugmaschine
+
+Hier finden Sie wichtige Informationen zur vorhandenen Maschinentechnik.
+
+<br>
+
 <!--
 style="width: 100%; "
 -->
-|**W**erkzeugmaschine| |
 |$ \quad $ Bezeichnung | Drehmaschine EMCOMAT E-300, zyklengesteuert |
 |$ \quad $ Spitzenweite  | 1.500 mm  |
 |$ \quad $ Umlauf-$\varnothing$ über Bett	|570 mm|
@@ -43,26 +55,83 @@ style="width: 100%; "
 |$ \quad $ Drehzahlregelung|stufenlos|
 |$ \quad $ Antriebsleistung bei 40/100 % ED| 25/17 kW |
 |$ \quad $ max. Nennmoment an der Hauptspindel|764/519 Nm|
-| | |
-|**S**pannmittel | |
-|$ \quad $Art der Spannung|<input type="text" name="Art der Spannung" size="40" maxlength="60">|
-|$ \quad $verwendete Spannmittel| <input type="text" name="verwendete Spannmittel" size="40" maxlength="60"> |
-|$ \quad $Besonderheiten|<input type="text" name="Besonderheiten" size="40" maxlength="60"> |
-| | |
-|**W**erkstück | |
-|$ \quad $ Bezeichnung|<input type="text" name="Bezeichnung" size="40" maxlength="60"> |
-|$ \quad $ Abmaße ($ \varnothing$ x l)|<input type="text" name="Abmaße" size="40" maxlength="60"> |
-|$ \quad $ Werkstoff|<input type="text" name="Werkstoff" size="40" maxlength="60"> |
-|$ \quad $ Härte|<input type="text" name="Härte" size="40" maxlength="60"> |
-| | |
-|**W**erkzeug| |
-|$ \quad $ Halterbezeichnung|<input type="text" name="Halterbezeichnung" size="40" maxlength="60"> |
-|$ \quad $ Wendeschneidplatte|<input type="text" name="Wendeschneidplatte" size="40" maxlength="60"> |
-|$ \quad $ Schneidstoff| <input type="text" name="Schneidstoff" size="40" maxlength="60">|
-|$ \quad $ Eckenradius|<input type="text" name="Eckenradius" size="40" maxlength="60"> |
-|$ \quad $ Eckenwinkel|<input type="text" name="Eckenwinkel" size="40" maxlength="60"> |
-| | |
-|**H**ilfsstoffe | |
-|$ \quad $ Kühlschmierstoff|<input type="text" name="Kühlschmierstoff" size="40" maxlength="60"> |
 
-<button>Absenden</button>
+
+## **S**pannmittel
+
+Bitte tragen Sie hier die geforderten Informationen zum Teilsystem **S**pannmittel ein.
+
+<br>
+
+Art der Spannung
+
+[[___ ___ ___]]
+
+verwendete Spannmittel
+
+[[___ ___ ___]]
+
+Besonderheiten
+
+[[___ ___ ___]]
+
+
+## **W**erkstück
+
+Bitte tragen Sie hier die geforderten Informationen zum Teilsystem **W**erkstück ein.
+
+<br>
+
+Bezeichnung
+
+[[___ ___ ___]]
+
+Abmaße ($\varnothing \space x \space l$)
+
+[[___ ___ ___]]
+
+**W**erkstoff
+
+[[___ ___ ___]]
+
+Härte
+
+[[___ ___ ___]]
+
+
+## **W**erkzeug
+
+Bitte tragen Sie hier die geforderten Informationen zum Teilsystem **W**erkzeug ein.
+
+<br>
+
+Halterbezeichnung
+
+[[___ ___ ___]]
+
+Wendeschneidplatte
+
+[[___ ___ ___]]
+
+Schneidstoff
+
+[[___ ___ ___]]
+
+Eckenradius
+
+[[___ ___ ___]]
+
+Eckenwinkel
+
+[[___ ___ ___]]
+
+
+## **H**ilfsstoffe
+
+Bitte tragen Sie hier die geforderten Informationen zum Teilsystem **H**ilfsstoffe ein.
+
+<br>
+
+Kühlschmierstoff
+
+[[___ ___ ___]]
