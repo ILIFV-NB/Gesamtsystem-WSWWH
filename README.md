@@ -43,6 +43,7 @@ style="width: 100%; "
 |$ \quad $ Drehzahlregelung|stufenlos|
 |$ \quad $ Antriebsleistung bei 40/100 % ED| 25/17 kW |
 |$ \quad $ max. Nennmoment an der Hauptspindel|764/519 Nm|
+| | |
 |**S**pannmittel | |
 |$ \quad $Art der Spannung|<input type="text" name="Art der Spannung" size="40" maxlength="60">|
 |$ \quad $verwendete Spannmittel| <input type="text" name="verwendete Spannmittel" size="40" maxlength="60"> |
