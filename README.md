@@ -49,8 +49,8 @@ style="width: 100%; "
 |$ \quad $ Spitzenweite  | 1.500 mm  |
 |$ \quad $ Umlauf-$\varnothing$ über Bett	|570 mm|
 |$ \quad $ Umlauf-$\varnothing$ über Schlitten |340 mm|
-|$ \quad $ Vorschubkraft X max.| 1.000 daN|
-|$ \quad $ Vorschubkraft Z max.| 1.500 daN|
+|$ \quad $ Vorschubkraft X max.| 10 kN|
+|$ \quad $ Vorschubkraft Z max.| 15 kN|
 |$ \quad $ Spindeldrehzahl|0 - 2.500 U/min|
 |$ \quad $ Drehzahlregelung|stufenlos|
 |$ \quad $ Antriebsleistung bei 40/100 % ED| 25/17 kW |
