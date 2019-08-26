@@ -12,7 +12,7 @@ narrator: DE FEMALE
 
 -->
 
-# **Gesamtsystem WSWWH**
+# **Gesamtsystem WSWW+H**
 
 <h2>Versuchsvorbereitung</h2>
 
@@ -21,8 +21,6 @@ ergänzen auf den folgenden Seiten die fehlenden Daten, um Ihr Gesamtsystem **WS
 
 <br>
 Durch das Systemmodell **WSWW + H** werden wesentliche Eingangsgrößen für den Zerspanprozess beschrieben. Es setzt sich zusammen aus:
-
-<br>
 
 <!--
 style="font-size: 18px; "
@@ -33,8 +31,15 @@ style="font-size: 18px; "
 **W**erkzeug<br>
 **H**ilfsstoffe
 
-<br>
+<br/>
+![image](images/System_WSWWH_t.png)<!--
+style = "width: 100%; border: 1px solid; "
+-->
 
+<!--
+style="font-size: 14px; width: 100%; margin: 0.25em 1;"
+-->
+***Abbildung:*** *Gesamtsystem WSWW+H*
 
 ## **W**erkzeugmaschine
 
