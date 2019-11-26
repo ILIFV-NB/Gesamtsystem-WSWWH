@@ -33,7 +33,7 @@ style="font-size: 18px; "
 
 <br/>
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/System_WSWWH_t.png)<!--
-style = "width: 100%; border: 1px solid; "
+style = "width: 60%; border: 1px solid; "
 -->
 
 <!--
