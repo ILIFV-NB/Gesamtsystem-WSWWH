@@ -332,7 +332,7 @@ style = "width: 60%; "
 ## Systembetrachtung Spanen
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/Der_Zerspanprozess_als_System-FT.png)<!--
-style = "width: 100%; "
+style = "width: 75%; "
 -->
 
 <!--
@@ -343,5 +343,5 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 ## Hauptwerte der spezifischen Kraftkomponenten und deren Anstiegswerte
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/Hauptwerte_Kraftkomp.png)<!--
-style = "width: 100%; "
+style = "width: 75%; "
 -->
