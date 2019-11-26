@@ -32,7 +32,7 @@ style="font-size: 18px; "
 **H**ilfsstoffe
 
 <br/>
-![image](images/System_WSWWH_t.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/System_WSWWH_t.png)<!--
 style = "width: 100%; border: 1px solid; "
 -->
 
@@ -132,7 +132,7 @@ Kühlschmierstoff
 Hier finden Sie einen Überblick zur im Praktikum "Drehen" verwendeten Maschinen-    und Gerätetechnik. Nutzen Sie die folgenden Informationen, um sich mit der Technik vertraut zu machen und zur Vervollständigung des anzufertigenden Protokolls.
 
 <br>
-![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/Maschinen_u_Geraete.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/Maschinen_u_Geraete.png)<!--
 style = "width: 75%; "
 -->
 
@@ -140,7 +140,7 @@ style = "width: 75%; "
 
 ~~**Drehmaschine**~~
 
-![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/EMCO.jpg)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/EMCO.jpg)<!--
 style = "width: 75%; "
 -->
 
@@ -170,11 +170,11 @@ Die Werkzeughalter mit den folgenden Spezifikationen stehen Ihnen für die Versu
 
 | [DCLNR 2525 M 12](https://www.sandvik.coromant.com/de-de/pages/search15products.aspx?tpcleaf=TRNG_IND_COR&q=DCLNR%202525%20M%2012#query=%7B%22n%22:%22%22,%22l%22:%22TRNG_IND_COR%22,%22r%22:%5B%7B%22n%22:%22TIBPAvailability%22,%22v%22:%5B%7B%22n%22:%22Available%22%7D%5D%7D,%7B%22n%22:%22CopCUTINTMASTER%22,%22v%22:%5B%7B%22n%22:%22%5C%22%C7%82%C7%82434e4d4720313230343038%5C%22%22%7D%5D%7D%5D,%22c%22:%5B%5D%7D) | [DDJNR 2525 M 11](https://www.sandvik.coromant.com/de-de/products/Pages/productdetails.aspx?c=DDJNR%202525M%2011)  | [DWLNR 2525 M 08](https://www.sandvik.coromant.com/de-de/products/Pages/productdetails.aspx?c=DWLNR%202525M%2008#query=%7B%22n%22:%22Tool%20Item%22,%22l%22:%22%22,%22r%22:%5B%7B%22n%22:%22TIBPAvailability%22,%22v%22:%5B%7B%22n%22:%22Available%22%7D%5D%7D%5D,%22c%22:%5B%5D%7D)|
 |:---:|:---:|:---:
-| ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/DCLNR2525M12.png)<!--
+| ![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/DCLNR2525M12.png)<!--
 style="width: 50%; "
--->| ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/DDJNR2525M11.png)<!--
+-->| ![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/DDJNR2525M11.png)<!--
 style="width: 50%; "
--->|  ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/DWLNR2525M08.png)<!--
+-->|  ![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/DWLNR2525M08.png)<!--
 style="width: 50%; "
 --> |
 
@@ -193,39 +193,39 @@ style="width: 100%; "
 |--- |:---: |--- |--- | ---|
 | **Wendeschneidplatte** | | **ap** in mm | **fn** in mm/U | **vc** in m/min |
 | WNMG | | | | |
-|WNMG 080412 – WSS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/WNMG-080412-WSS.png)<!--
+|WNMG 080412 – WSS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/WNMG-080412-WSS.png)<!--
 style = "width: 50%; "
 --> |0,3 – **1,4** – 2,5  | 0,1 – **0,3** – 0,5 | 100 – **190** – 280|
-|WNMG 080408 – WSS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/WNMG-080408-WSS.png)<!--
+|WNMG 080408 – WSS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/WNMG-080408-WSS.png)<!--
 style = "width: 50%; "
 --> |0,3 – **1,4** – 2,5  | 0,1 – **0,3** – 0,5 | 100 – **190** – 280|
-|WNMG 080408 – SS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/WNMG-080408-SS.png)<!--
+|WNMG 080408 – SS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/WNMG-080408-SS.png)<!--
 style = "width: 50%; "
 --> |0,2 – **1,1** – 2  | 0,1 – **0,25** – 0,4 | 150 – **280** – 400|
-|WNMG 080404 – SS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/WNMG-080404-SS.png)<!--
+|WNMG 080404 – SS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/WNMG-080404-SS.png)<!--
 style = "width: 50%; "
 --> |0,2 – **1,1** – 2  | 0,1 – **0,25** – 0,4 | 150 – **280** – 400|
 |CNMG | | | | |
-|CNMG 120408 – WSS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/CNMG-120408-WSS.png)<!--
+|CNMG 120408 – WSS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/CNMG-120408-WSS.png)<!--
 style = "width: 50%; "
 --> |0,3 – **1,4** – 2,5  | 0,1 – **0,3** – 0,5 | 100 – **190** – 280|
-|CNMG 120408 – SS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/CNMG-120408-SS.png)<!--
+|CNMG 120408 – SS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/CNMG-120408-SS.png)<!--
 style = "width: 60%; "
 --> |0,2 – **1,1** – 2  | 0,1 – **0,25** – 0,4 | 150 – **280** – 400|
-|CNMG 120404 – SS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/CNMG-120404-SS.png)<!--
+|CNMG 120404 – SS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/CNMG-120404-SS.png)<!--
 style = "width: 50%; "
 --> |0,2 – **1,1** – 2  | 0,1 – **0,25** – 0,4 | 150 – **280** – 400|
-|CNMG 120412 – WSS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/CNMG-120412-WSS.png)<!--
+|CNMG 120412 – WSS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/CNMG-120412-WSS.png)<!--
 style = "width: 50%; "
 --> |0,3 – **1,4** – 2,5  | 0,1 – **0,3** – 0,5 | 100 – **190** – 280|
 |DNMG | | | | |
-|DNMG 110408 – SS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/DNMG-110408-SS.png)<!--
+|DNMG 110408 – SS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/DNMG-110408-SS.png)<!--
 style = "width: 40%; "
 --> |0,2 – **1,1** – 2  | 0,1 – **0,25** – 0,4 | 150 – **280** – 400|
-|DNMG 110404 – SS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/DNMG-110404-SS.png)<!--
+|DNMG 110404 – SS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/DNMG-110404-SS.png)<!--
 style = "width: 40%; "
 --> |0,2 – **1,1** – 2  | 0,1 – **0,25** – 0,4 | 150 – **280** – 400|
-|DNMG 110408 – WSS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/DNMG-110408-WSS.png)<!--
+|DNMG 110408 – WSS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/DNMG-110408-WSS.png)<!--
 style = "width: 40%; "
 --> |0,3 – **1,4** – 2,5  | 0,1 – **0,3** – 0,5 | 100 – **190** – 280|
 ***
@@ -260,7 +260,7 @@ Bild
 
 ~~**Rauheitsmessgerät**~~
 
-![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/HommelT1000basic-gr.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/HommelT1000basic-gr.png)<!--
 style = "width: 60%; "
 -->
 
@@ -305,7 +305,7 @@ PC- basierendes Auswerteprogramm für  mobile Rauheitsmessgeräte. Funktionsbere
 
 ~~**Digitale Bügelmessschraube**~~
 
-![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/DBM-Mahr_Micromar_EWRi.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/DBM-Mahr_Micromar_EWRi.png)<!--
 style = "width: 60%; "
 -->
 
@@ -331,7 +331,7 @@ style = "width: 60%; "
 
 ## Systembetrachtung Spanen
 
-![image](images/Der_Zerspanprozess_als_System-FT.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/Der_Zerspanprozess_als_System-FT.png)<!--
 style = "width: 100%; "
 -->
 
@@ -342,6 +342,6 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 
 ## Hauptwerte der spezifischen Kraftkomponenten und deren Anstiegswerte
 
-![image](images/Hauptwerte_Kraftkomp.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/Hauptwerte_Kraftkomp.png)<!--
 style = "width: 100%; "
 -->
