@@ -4,11 +4,13 @@ author:   Nancy Brinkmann, Ronny Stolze
 
 email:    nancy.brinkmann@hs-magdeburg.de, ronny.stolze@hs-magdeburg.de
 
-version:  1.0.0
+version:  11.20
 
-language: de_DE
+language: de
 
 narrator: DE FEMALE
+
+comment:  Beschreibung des Gesamtsystems WSWW+H
 
 -->
 
@@ -19,7 +21,6 @@ narrator: DE FEMALE
 Jede Gruppe erhält ein Drehwerkzeug, mit dem die in den Kursen beschriebenen Versuche durchzuführen sind. Bevor Sie mit den Versuchen starten, verschaffen Sie sich einen Überblick über die verwendete Technik und
 ergänzen auf den folgenden Seiten die fehlenden Daten, um Ihr Gesamtsystem **WSWW + H** beschreiben zu können.
 
-<br>
 Durch das Systemmodell **WSWW + H** werden wesentliche Eingangsgrößen für den Zerspanprozess beschrieben. Es setzt sich zusammen aus:
 
 <!--
