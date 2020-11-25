@@ -52,9 +52,9 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 |Spitzenweite|$mm$ |$1500$ |
 | Umlauf- $\text{\O}$ über Bett | $mm$|$570$ |
 |Umlauf- $\text{\O}$ über Schlitten | $mm$ | $340$ |
-| Vorschubkraft X max. | $daN$ | $1000$ |
-| Vorschubkraft Z max. | $daN$|$1500$|
-| Spindeldrehzahl| $U/mm$| $0\space-\space2500$|
+| Vorschubkraft X max. | $kN$ | $10$ |
+| Vorschubkraft Z max. | $kN$|$15$|
+| Spindeldrehzahl| $U/min$| $0\space-\space2500$|
 |Drehzahlregelung| | stufenlos|
 | Antriebsleistung bei $40/100\space$ % ED|$kW $| $25/17$|
 | Max. Nennmoment an der Hauptspindel| $Nm$| $764/519$|
