@@ -144,6 +144,11 @@ Kühlschmierstoff
 
 # **Anhang**
 
+[Systembetrachtung Spanen](#8)
+
+[Hauptwerte der spezifischen Kraftkomponenten und deren Anstiegswerte](#9)
+
+
 ## Systembetrachtung Spanen
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/Der_Zerspanprozess_als_System-FT.png)<!--
