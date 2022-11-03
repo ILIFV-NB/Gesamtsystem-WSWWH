@@ -2,9 +2,9 @@
 
 author:   Nancy Brinkmann, Ronny Stolze
 
-email:    nancy.brinkmann@hs-magdeburg.de, ronny.stolze@hs-magdeburg.de
+email:    nancy.brinkmann@h2.de, ronny.stolze@h2.de
 
-version:  11.20
+version:  11.22
 
 language: de
 
@@ -49,6 +49,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 
 **Technische Daten**
 
+|   |   |
 |Spitzenweite|$mm$ |$1500$ |
 | Umlauf- $\text{\O}$ über Bett | $mm$|$570$ |
 |Umlauf- $\text{\O}$ über Schlitten | $mm$ | $340$ |
