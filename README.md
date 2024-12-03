@@ -26,11 +26,11 @@ Durch das Systemmodell **WSWW + H** werden wesentliche Eingangsgrößen für den
 <!--
 style="font-size: 18px; "
 -->
-**W**erkzeugmaschine <br>
-**S**pannmittel<br>
-**W**erkstück<br>
-**W**erkzeug<br>
-**H**ilfsstoffe
+[**W**erkzeugmaschine](#2) <br>
+[**S**pannmittel](#3)<br>
+[**W**erkstück](#4)<br>
+[**W**erkzeug](#5)<br>
+[**H**ilfsstoffe](#6)
 
 <br/>
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Versuchsvorbereitung/master/images/System_WSWWH_t.png)<!--
